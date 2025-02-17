@@ -2,6 +2,6 @@
 
 node_modules
 
-# Only apps should have lockfiles
+# Only apps should have lockfile
 yarn.lock
 package-lock.json
